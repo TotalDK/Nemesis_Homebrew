@@ -1,0 +1,35 @@
+Lovers
+You and a character of the opposite sex must survive using the same method of survival (CSS pod, bunker, hibernation)
+If you have activated your knowledge, you may complete this objective with a character of the same sex.
+
+
+Afraid of the Dark
+Call your mom (send the signal).
+AND
+You are not in darkness at the end of the game (carry a flashlight with uses remaining or hibernate in a section with power).
+
+
+In the Name of Science
+All intruder weaknesses must be discovered.
+THEN
+Send the signal.
+BUT
+You do not need to survive.
+--- OR ---
+You have a larva on your character board.
+BUT
+You do not need to survive the contamination check (you still have to survive the contingency check).
+
+
+Clear the Evidence
+Each revealed room with a computer must have a fire and/or malfunction marker.
+OR
+No character (other than you) sends the signal and the ship is destroyed.
+OR
+You are the only survivor.
+
+
+Martyr
+All other characters must survive.
+AND
+You must not survive.

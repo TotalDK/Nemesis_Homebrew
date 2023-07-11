@@ -1,0 +1,38 @@
+Nemesis Survival
+The ship must survive.
+
+
+Corporate Espionage
+Activate your knowledge.
+THEN
+Send the signal (in order).
+
+
+Expedition Leader
+At most one character may die.
+
+
+Contract Killing
+Deliver the killing blow to a character.
+
+
+Dead or Alive
+The character of the player on your right must survive.
+OR
+Finish the game with their corpse in your possession.
+
+
+The Cure
+Send the signal.
+AND
+Have an antidote in your possession.
+
+
+Protect the VIP
+The character with color of the highest rank (other than you) must survive:
+- Blue
+- Green
+- White
+- Orange
+- Purple
+- Red
