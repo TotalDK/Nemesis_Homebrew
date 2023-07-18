@@ -1,11 +1,7 @@
-Nemesis Survival
-The ship must survive.
-
-
 Corporate Espionage
 Activate your knowledge.
 THEN
-Send the signal (in order).
+Send the signal.
 
 
 Expedition Leader
@@ -34,5 +30,22 @@ The character with color of the highest rank (other than you) must survive:
 - Green
 - White
 - Orange
+- Pink
 - Purple
 - Red
+
+
+Extinction
+The Nest must be destroyed.
+AND
+No character may escape with a larvae on their character board (gaining one during victory check is okay).
+
+
+Meteorite Sample
+Be hit by a meteorite (Mars Surface Event).
+THEN
+Send the signal.
+
+
+Embryoctomy Testing
+Any surviving character must have had a larvae removed from their character board.
