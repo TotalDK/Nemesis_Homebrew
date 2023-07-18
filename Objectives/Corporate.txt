@@ -51,7 +51,7 @@ Embryoctomy Testing
 Any surviving character must have had a larvae removed from their character board.
 
 
-Espionage //Uheldigt at vi begge har en ide for spioner 
+Contingency Plan Espionage
 Send the signal.
 AND
 When the game ends, you must correctly announce the active contingency before it is revealed.
@@ -62,4 +62,4 @@ If you are a Facility Worker:
 More Nemesis Survivors than Facility Workers must die.
 If you are a Nemesis Survivor:
 More Facility Workers than Nemesis Survivors must die.
-(The same number as is not more than)
+(An equal number of each means you lose.)
