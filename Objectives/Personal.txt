@@ -92,9 +92,10 @@ You must not end the game while slimed (even if you ignore slime).
 Confrontational
 You must have a non-empty weapon.
 AND
-If the active contingency is non-green,
-the contingency check must try to kill you.
+If the active contingency is not green, the contingency check must try to kill you.
+BUT
+You do not die from the contingency check.
 
 
 Well Insured
-You must escape with at least 2 serious wounds(dressed or not).
+You must escape with at least 2 serious wounds (dressed or not).
