@@ -33,3 +33,57 @@ Martyr
 All other characters must survive.
 AND
 You must not survive.
+
+
+Pro-life
+No eggs may be destroyed.
+AND
+No larvae may be killed or removed from player boards.
+--- OR ---
+You have a larva on your character board.
+BUT
+You do not need to survive the contamination check (you still have to survive the contingency check).
+
+
+Secret Bunker
+*You know the base is never truly safe.*
+Activate your knowledge.
+THEN
+Take the following elevator action (in an elevator room):
+2: Discard a energy charge unless the elevator has power. Then reveal this objective and remove your character and the elevator from the game. You are safe from all contingencies.
+
+
+Exterminate
+You do not need to survive.
+BUT
+The following intruders must have been killed (destroying the base does not complete this mission):
+3 Adult intruders.
+OR
+1 Breeder and 1 Adult.
+OR
+The Queen.
+
+
+Back to sleep
+Hibernate (in the isolation room).
+OR
+You must be the only survivor.
+
+
+Hoarder
+You must have 2 heavy items/objects (e.g. heavy items, eggs, intruder carcasses and character corpses).
+AND
+You must have one item of each color (including your heavy items).
+
+
+Not Prisoners
+If you are a Nemesis Survivor:
+You and a Facility Worker must survive using the same method of survival (CSS pod, bunker, hibernation).
+If you are a Nemesis Survivor:
+You and a Nemesis Survivor must survive using the same method of survival (CSS pod, bunker, hibernation).
+
+
+OCD
+You must perform the decontamination procedure exactly 3, 6 or 9 times.
+AND
+You must not end the game while slimed (even if you ignore slime).
