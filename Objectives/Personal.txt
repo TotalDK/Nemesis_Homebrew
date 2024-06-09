@@ -99,3 +99,28 @@ You do not die from the contingency check.
 
 Well Insured
 You must escape with at least 2 serious wounds (dressed or not).
+
+
+Smugling Cargo
+Nobody Can leave the base using CSS pods.
+Cargo Sending System A has been discovered. 
+The contingincy cannot be black.
+OR
+Send the signal.
+Escape in a CSS pod with an EGG.
+The Black Contingincy doesn't kill you.
+
+
+The Martian
+Send the Signal
+Have an Enviro Suit crafted item (Battle Suit counts)
+Have 6+ knowledge
+THEN
+In a room with the rover and no intruders, reveal this objective to remove yourself and the rover from the board (place noise in all adjacent corridors without noise first). 
+
+
+MacGyver 
+Have 3 different crafted items at the end of the game.
+
+
+
