@@ -57,6 +57,48 @@ AND
 When the game ends, you must correctly announce the active contingency before it is revealed.
 
 
+Chasing Promotion (2-3 copies)
+Send the signal.
+AND 
+Complete the task of YOUR color
+Blue: 2 sections are fully discovered.
+Green: 1+ active power tokens during victory check
+White:  Have 6+ knowledge 
+Orange: The base can't be destroyed
+Pink: One other player must survive
+Purple: Finish game with an egg
+Red: 2 intruder carcasses on the game board
+Also: if two players with this objective win, both lose instead.
+
+
+Base Insurance
+There's at least 10 combined malfunction and fire markers on the board
+(There must still be 10+ markers on the board if the base self destructs)
+
+
+Flush Protocol 
+The base can't be destroyed.
+AND
+The auto destruct sequence has been active at least once.
+
+
+Hidden Betrayal
+Someone must die to the contingincy procedure
+OR
+Activate your knowledge token (fabricate evidence)
+Be in the bunker or isolation room with EXACTLY 1 other person
+They lose the game. 
+
+
+Corporate Enforcer
+Send the signal.
+AND
+Announce during victory check that you have to reveal objective first.
+Correctly predict the unrevealed objective type (Personal or Corporate) of EVERY living player in isolation or bunker, discussion allowed.
+If correct: You win. All living players in isolation or bunker with personal objectives lose.
+Incorrect: You lose. 
+
+
 Grudge 
 If you are a Facility Worker:
 More Nemesis Survivors than Facility Workers must die.
