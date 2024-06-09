@@ -57,7 +57,7 @@ AND
 When the game ends, you must correctly announce the active contingency before it is revealed.
 
 
-Chasing Promotion (2-3 copies)
+_Chasing Promotion (2-3 copies)
 Send the signal.
 AND 
 Complete the task of YOUR color
@@ -71,18 +71,18 @@ Red: 2 intruder carcasses on the game board
 Also: if two players with this objective win, both lose instead.
 
 
-Base Insurance
+Insurance Fraud
 There's at least 10 combined malfunction and fire markers on the board
 (There must still be 10+ markers on the board if the base self destructs)
 
 
-Flush Protocol 
+Emergency Drill Protocol Testing
 The base can't be destroyed.
 AND
 The auto destruct sequence has been active at least once.
 
 
-Hidden Betrayal
+-Hidden Betrayal
 Someone must die to the contingincy procedure
 OR
 Activate your knowledge token (fabricate evidence)
@@ -90,7 +90,7 @@ Be in the bunker or isolation room with EXACTLY 1 other person
 They lose the game. 
 
 
-Corporate Enforcer
+_Corporate Enforcer
 Send the signal.
 AND
 Announce during victory check that you have to reveal objective first.
