@@ -24,7 +24,7 @@ You do not need to survive the contamination check (you still have to survive th
 Clear the Evidence
 Each revealed room with a computer must have a fire and/or malfunction marker.
 OR
-No character (other than you) sends the signal and the ship is destroyed.
+No other character sends the signal and the ship is destroyed.
 OR
 You are the only survivor.
 
@@ -50,7 +50,7 @@ Secret Bunker
 Activate your knowledge.
 THEN
 Take the following elevator action (in an elevator room):
-2: Discard a energy charge unless the elevator has power. Then reveal this objective and remove your character and the elevator from the game. You are safe from all contingencies.
+2: Discard an energy charge unless the elevator has power. Then reveal this objective and remove your character and the elevator from the game. You are safe from all contingencies.
 
 
 Exterminate
@@ -98,29 +98,30 @@ You do not die from the contingency check.
 
 
 Well Insured
-You must escape with at least 2 serious wounds (dressed or not).
+You must survive with at least 2 serious wounds (dressed or not).
 
 
-Smugling Cargo
-Nobody Can leave the base using CSS pods.
-Cargo Sending System A has been discovered. 
+-Smugling Cargo
+No character can leave the base using CSS pods.
+AND
+At least one Cargo Sending System has been discovered.
+AND
 The contingincy cannot be black.
-OR
+--- OR ---
 Send the signal.
-Escape in a CSS pod with an EGG.
+Escape in a CSS pod with an egg.
 The Black Contingincy doesn't kill you.
 
 
 The Martian
 Send the Signal
-Have an Enviro Suit crafted item (Battle Suit counts)
-Have 6+ knowledge
+AND
+Have an Enviro-Suit (Battle Suit counts)
+AND
+Activate your knowledge token
 THEN
-In a room with the rover and no intruders, reveal this objective to remove yourself and the rover from the board (place noise in all adjacent corridors without noise first). 
+In a room with the rover and no intruders, reveal this objective to remove yourself and the rover from the board. Resolve Danger at your location afterwards. 
 
 
 MacGyver 
-Have 3 different crafted items at the end of the game.
-
-
-
+Survive with 3 different crafted items.
